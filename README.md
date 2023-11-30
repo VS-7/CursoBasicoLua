@@ -1,5 +1,5 @@
 # CursoBasicoLua
-
+CRUD para cadastro de funcionários na Linguagem de Programação Lua, desenvolvido na aula prática de desenvolvimento em Lua.
 ## Dependências
 ### Instalar Lua
     sudo apt-get install lua5.4
